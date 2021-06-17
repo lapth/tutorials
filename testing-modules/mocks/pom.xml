@@ -57,7 +57,7 @@
         <mockito.version>2.21.0</mockito.version>
         <easymock.version>3.5.1</easymock.version>
         <jmockit.version>1.41</jmockit.version>
-        <jimf.version>1.1</jimf.version>
+        <jimf.version>1.2</jimf.version>
     </properties>
 
 </project>
